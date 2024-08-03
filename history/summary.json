@@ -4,17 +4,19 @@
     "url": "https://www.haydentomas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.haydentomas.co.uk.ico",
     "slug": "hayden-tomas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 356,
-    "timeWeek": 275,
-    "timeMonth": 294,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 334,
+    "timeDay": 1252,
+    "timeWeek": 510,
+    "timeMonth": 352,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   }
 ]
